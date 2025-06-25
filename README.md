@@ -1,3 +1,7 @@
-# Stay Strong, Iran 🇮🇷
+# 👋 Hey there, I'm Mohammad
 
-In this difficult time, our hearts are with the people of Iran 🇮🇷. We know that many are going through fear, pain, and uncertainty. No one should have to face violence or live in fear of attacks. We believe in peace, in the power of unity, and in standing together when it matters most. Even from far away, we want to say: you are not alone. We hope for safety, strength, and a better tomorrow for everyone affected.
+I'm a Platform & Software Engineer from the Netherlands who loves turning complex infrastructure into simple, reliable tools. I work with **Kubernetes**, **Terraform**, **NixOS**, and write backend stuff in Go.
+
+I also built [**Wait4X**](https://github.com/wait4x/wait4x) — a tiny but powerful tool that waits for services in your scripts and CI/CD pipelines. It's like `sleep`, but smarter 😎.
+
+Thanks for dropping by! 👋
